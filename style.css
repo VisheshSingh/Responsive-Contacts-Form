@@ -37,3 +37,12 @@ ul{
 .wrapper > *{
     padding:1em;
 }
+
+.company-info{
+    background: #c9e6ff;
+}
+
+.company-info h3, .company-info ul{
+    text-align: center;
+    margin: 0 0 1em 0;
+}
